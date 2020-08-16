@@ -18,6 +18,36 @@ For example, this code:
 
 will take the annotations in my_example_annotations.txt, merge them to the sequences stored in my_example_proteins.fasta, and save the output to my_example_merged.fasta.
 
+## FORMAT
+
+The first input to this script is a tab-seperated list of each gene and its corresponding functional annotation. The first column contains the gene identifiers and the second column contains the annotations. For example:
+
+```
+gene1      transcription factor
+gene2      unknown protein
+...
+gene3      heat shock protein
+```
+
+The second input is a list of sequences in [FASTA format](https://en.wikipedia.org/wiki/FASTA_format).
+
+The output of the script will be a FASTA format sequences file, except now annotations will be added to header lines:
+
+```
+>gene1 transcription factor
+HGTVILLVYVDDIIITGFTAALIEDVTRAMHTTFKMKDLGSLHYFLGMEVSRIGSGLFLH
+QSKYARDLLQKAGLEKCTSQPTLMAVSSSTNGADTPFADITHFCSLIGALQYLAITRPDI
+QFAVNRVAQRMHQPSEHDYHCLKRILRYIFGTLGRGLLIRPGDLELRGFSDSDWANDKND
+RKSTSRFLVFLGPNLISWCTKKQPKVSRSSTEAEYRAVALLAAETMW
+>gene2 unknown protein
+MPISPSRSTNSVDVPFHNPRLFHSLVGGLQYLTVTRPDIQFAVNYVAQKMHSLTEQDFHT
+LKRILRYVKGIILCGLIFSKGDLRLRGYSNSDWANDPSDNCSTTDYLIFFGPNLISWNTE
+KQGRVSKSSTEAEYRALSAAASEV
+...
+```
+
+This resulting fasta file can still be parsed by other software, like [Biopython](https://biopython.org/wiki/Download).
+
 ## DEPENDENCIES
 
 1. Biopython. Install with:

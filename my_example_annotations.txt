@@ -1,0 +1,100 @@
+Solyc00g500001.1.1	Retrovirus-related Pol polyprotein from transposon TNT 1-94 (AHRD V3.3 *-* A0A2I0VJ33_9ASPA)
+Solyc00g500002.1.1	Retrovirus-related Pol polyprotein from transposon TNT 1-94 (AHRD V3.3 *-* A0A2I0VBY8_9ASPA)
+Solyc00g500003.1.1	MP domain-containing protein (AHRD V3.3 *-* A0A1Q3D0H5_CEPFO)
+Solyc00g500004.1.1	Unknown protein
+Solyc00g500005.1.1	Unknown protein
+Solyc00g500006.1.1	Unknown protein
+Solyc00g500007.1.1	Unknown protein
+Solyc00g500008.1.1	Unknown protein
+Solyc00g500009.1.1	Unknown protein
+Solyc00g500010.1.1	Unknown protein
+Solyc00g500011.1.1	Unknown protein
+Solyc00g500012.1.1	Unknown protein
+Solyc00g500013.1.1	Unknown protein
+Solyc00g500014.1.1	Unknown protein
+Solyc00g500015.1.1	Unknown protein
+Solyc00g500016.1.1	Unknown protein
+Solyc00g500017.1.1	Unknown protein
+Solyc00g500018.1.1	Unknown protein
+Solyc00g014290.1.1	Unknown protein
+Solyc00g005280.1.1	Unknown protein
+Solyc00g500019.1.1	Photosystem I assembly protein Ycf4 (AHRD V3.3 *** K4EQH2_DATST)
+Solyc00g500020.1.1	Cytochrome f (AHRD V3.3 *** A0A2G3ALJ3_CAPAN)
+Solyc00g500021.1.1	Cytochrome b559 subunit alpha (AHRD V3.3 *** S8D1L1_9LAMI)
+Solyc00g500022.1.1	30S ribosomal protein S18
+Solyc00g180440.1.1	50S ribosomal protein L20
+Solyc00g500023.1.1	ATP-dependent Clp protease proteolytic subunit (AHRD V3.3 *** CLPP_SOLTU)
+Solyc00g500024.1.1	Photosystem II CP47 reaction center protein (AHRD V3.3 *** A0A1U8QCF6_CAPAN)
+Solyc00g500025.1.1	Unknown protein
+Solyc00g500026.1.1	Photosystem II reaction center protein H (AHRD V3.3 *** I6N985_DATST)
+Solyc00g500027.1.1	Cytochrome b6 (AHRD V3.3 *** A0A125RTD6_9ASTR)
+Solyc00g500028.1.1	Cytochrome b6-f complex subunit 4 (AHRD V3.3 *** A0A2G2XBM1_CAPBA)
+Solyc00g500029.1.1	30S ribosomal protein S2
+Solyc00g500030.1.1	30S ribosomal protein S11
+Solyc00g500031.1.1	50S ribosomal protein L14
+Solyc00g500032.1.1	50S ribosomal protein L16
+Solyc00g500033.1.1	Ribosomal protein L2
+Solyc00g500034.1.1	30S ribosomal protein S3
+Solyc00g500035.1.1	50S ribosomal protein L2 (AHRD V3.3 *** H6T990_9CARY)
+Solyc00g500036.1.1	Ycf15 (AHRD V3.3 *-* A0A346JLD3_9ASTE)
+Solyc00g500037.1.1	Protein Ycf2 (AHRD V3.3 *** A0A1Z1GA65_LITCN)
+Solyc00g500038.1.1	Ycf15 protein (AHRD V3.3 *-* J7H9P3_CAPAN)
+Solyc00g500039.1.1	Ycf15 (AHRD V3.3 *-* A0A346JLD3_9ASTE)
+Solyc00g500040.1.1	Protein TIC 214 (AHRD V3.3 *-* K4EQH9_DATST)
+Solyc00g500041.1.1	NAD(P)H-quinone oxidoreductase subunit 1
+Solyc00g500042.1.1	Protein TIC 214 (AHRD V3.3 *** TI214_SOLTU)
+Solyc00g500043.1.1	Protein TIC 214 (AHRD V3.3 *-* TI214_SOLTU)
+Solyc00g500044.1.1	30S ribosomal protein S2
+Solyc00g500045.1.1	Ycf15 protein (AHRD V3.3 *-* J7H9P3_CAPAN)
+Solyc00g500046.1.1	Protein Ycf2 (AHRD V3.3 *** A0A1Z1GA65_LITCN)
+Solyc00g500047.1.1	50S ribosomal protein L2
+Solyc00g277510.1.1	Photosystem II protein D1 (AHRD V3.3 *-* A0A1U8QBZ9_CAPAN)
+Solyc00g500048.1.1	Maturase K (AHRD V3.3 *** A0A2G3DGH8_CAPCH)
+Solyc00g500049.1.1	Photosystem II reaction center protein K (AHRD V3.3 *** A0A1U8QD48_CAPAN)
+Solyc00g500050.1.1	ATP synthase subunit alpha
+Solyc00g500051.1.1	30S ribosomal protein S2
+Solyc00g500052.1.1	DNA-directed RNA polymerase subunit beta'' (AHRD V3.3 *-* A0A1U8QCC7_CAPAN)
+Solyc00g500053.1.1	DNA-directed RNA polymerase subunit beta (AHRD V3.3 *-* I6N949_DATST)
+Solyc00g500054.1.1	Photosystem II CP43 reaction center protein (AHRD V3.3 *** A0A078EKT7_BRANA)
+Solyc00g500055.1.1	30S ribosomal protein S14
+Solyc00g500056.1.1	DNA-directed RNA polymerase subunit alpha (AHRD V3.3 *-* A0A1U8QD90_CAPAN)
+Solyc00g500057.1.1	Photosystem I P700 chlorophyll a apoprotein A1 (AHRD V3.3 *** K4EPK3_DATST)
+Solyc00g500058.1.1	Photosystem I assembly protein Ycf3 (AHRD V3.3 *** A0A140F954_9LAMI)
+Solyc00g500059.1.1	Photosystem I assembly protein Ycf3 (AHRD V3.3 *-* A0A1S5SJS5_ORYVI)
+Solyc00g500060.1.1	30S ribosomal protein S4
+Solyc00g500061.1.1	Photosystem I assembly protein Ycf4 (AHRD V3.3 *** K4EQH2_DATST)
+Solyc00g500062.1.1	NAD(P)H-quinone oxidoreductase subunit K
+Solyc00g500063.1.1	Ribulose bisphosphate carboxylase large chain (AHRD V3.3 *** A0A2G2Z7Q2_CAPAN)
+Solyc00g500064.1.1	Ycf15 (AHRD V3.3 *-* A0A346JLD3_9ASTE)
+Solyc00g500065.1.1	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+Solyc00g500066.1.1	Photosystem I assembly protein Ycf4 (AHRD V3.3 *** K4EQH2_DATST)
+Solyc00g500067.1.1	NAD(P)H-quinone oxidoreductase subunit K
+Solyc00g500068.1.1	Cytochrome b559 subunit alpha (AHRD V3.3 *** S8D1L1_9LAMI)
+Solyc00g500069.1.1	30S ribosomal protein S12
+Solyc00g500070.1.1	ATP-dependent Clp protease proteolytic subunit (AHRD V3.3 *** CLPP_SOLTU)
+Solyc00g500071.1.1	Photosystem II CP43 reaction center protein (AHRD V3.3 *** A0A078EKT7_BRANA)
+Solyc00g500072.1.1	Ycf15 (AHRD V3.3 *-* A0A346JLD3_9ASTE)
+Solyc00g500073.1.1	Cytochrome b559 subunit alpha (AHRD V3.3 *** S8D1L1_9LAMI)
+Solyc00g500074.1.1	DNA-directed RNA polymerase subunit alpha (AHRD V3.3 *-* A0A1U8QD90_CAPAN)
+Solyc00g500075.1.1	30S ribosomal protein S11
+Solyc00g500076.1.1	50S ribosomal protein L14
+Solyc00g500077.1.1	50S ribosomal protein L16
+Solyc00g500078.1.1	Ribosomal protein L2
+Solyc00g500079.1.1	50S ribosomal protein L2 (AHRD V3.3 *** H6T990_9CARY)
+Solyc00g500080.1.1	Photosystem I assembly protein Ycf4 (AHRD V3.3 *** K4EQH2_DATST)
+Solyc00g500081.1.1	Protein Ycf2 (AHRD V3.3 *** A0A1Z1GA65_LITCN)
+Solyc00g500082.1.1	30S ribosomal protein S11
+Solyc00g500083.1.1	Ycf15 (AHRD V3.3 *-* A0A346JLD3_9ASTE)
+Solyc00g500084.1.1	Protein TIC 214 (AHRD V3.3 *** K4EQH9_DATST)
+Solyc00g500085.1.1	Cytochrome c biogenesis protein CcsA (AHRD V3.3 *** A0A1U8QCK2_CAPAN)
+Solyc00g500086.1.1	Photosystem I assembly protein Ycf3 (AHRD V3.3 *** A0A140F954_9LAMI)
+Solyc00g500087.1.1	NAD(P)H-quinone oxidoreductase subunit H
+Solyc00g500088.1.1	Protein TIC 214 (AHRD V3.3 *** TI214_SOLTU)
+Solyc00g500089.1.1	Unknown protein
+Solyc00g500090.1.1	MP domain-containing protein (AHRD V3.3 *** A0A1Q3CUC2_CEPFO)
+Solyc00g500091.1.1	E3 ubiquitin-protein ligase (AHRD V3.3 *** A0A2G3CLG0_CAPCH)
+Solyc00g011670.1.1	Unknown protein
+Solyc00g011660.1.1	B3 domain-containing protein (AHRD V3.3 *** A0A1Q3DFU3_CEPFO)
+Solyc00g500092.1.1	B3 domain-containing protein (AHRD V3.3 *** A0A2K3PAY3_TRIPR)
+Solyc00g500093.1.1	B3 domain-containing protein (AHRD V3.3 *-* A0A1Q3DFU3_CEPFO)
+Solyc00g500094.1.1	Retrovirus-related Pol polyprotein from transposon TNT 1-94 (AHRD V3.3 *-* A0A2K3MQM8_TRIPR)

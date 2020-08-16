@@ -60,4 +60,4 @@ If that doesn't work, see [here](https://biopython.org/wiki/Download).
 
 ## REFERENCES
 
-I acquired the example gff file from the [Sol Genomics Network](https://solgenomics.net/organism/Solanum_lycopersicum/genome).
+I acquired the example genes and annotations from the [Sol Genomics Network](https://solgenomics.net/organism/Solanum_lycopersicum/genome).

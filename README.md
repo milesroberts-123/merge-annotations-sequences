@@ -31,7 +31,7 @@ gene3      heat shock protein
 
 The second input is a list of sequences in [FASTA format](https://en.wikipedia.org/wiki/FASTA_format).
 
-The output of the script will be a FASTA format sequences file, except now annotations will be added to header lines:
+The output of the script will be a FASTA format sequences file, except now annotations will be included in header lines:
 
 ```
 >gene1 transcription factor
